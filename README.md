@@ -33,7 +33,7 @@ Two tables are used in the database:
 ### Environment Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/financial-data-etl-workflow.git
+    git clone https://github.com/anirudh-69/financial-data-etl-workflow.git
     cd financial-data-etl-workflow
     ```
 2. Set your API key in the `.env` file:
