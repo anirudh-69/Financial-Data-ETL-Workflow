@@ -107,5 +107,3 @@ Two tables are used in the database:
 Feel free to contribute by opening issues or submitting pull requests.
 
 ---
-
-*Credits* : [Financial Data Engineering](https://www.oreilly.com/library/view/financial-data-engineering/9781098159986/) by *Tamer Khraisha*
